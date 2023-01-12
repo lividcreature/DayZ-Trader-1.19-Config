@@ -498,11 +498,6 @@
 		Ammo_FlareGreen, 1, 15, 7
 		Ammo_FlareRed, 1, 15, 7
 		Ammo_762x54Tracer, 1, 20, 12
-		// When changing Prices here keep in Mind that Players
-		// can just unpack the Ammoboxes and sell the Ammo seperatly!
-		// Originally the Ammoboxes buying Price is 20% less than
-		// buying single Ammo. The Selling Price is the same as
-		// selling the Ammo seperately.
 		AmmoBox_380_35rnd, *, 28, -1
 		AmmoBox_9x19_25rnd, *, 20, -1
 		AmmoBox_45ACP_25rnd, *, 20, -1
