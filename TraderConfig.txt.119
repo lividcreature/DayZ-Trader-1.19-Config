@@ -8,6 +8,8 @@
 // //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
+// CREDIT:  TheHaluzer Official™ on Steam
+
 <CurrencyName> #tm_ruble // Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
 <Currency> MoneyRuble1, 1 // Currency Classname, Currency Money Value
 <Currency> MoneyRuble5, 5
