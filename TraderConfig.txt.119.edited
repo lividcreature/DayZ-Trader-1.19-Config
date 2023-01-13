@@ -1,3 +1,4 @@
+// CREDIT TO: TheHaluzer Official™ on Steam for his work!!
 // <Trader> = TRADER NAME (TRADER IDS ARE IN ORDER: FIRST TRADER ID = 0 | SECOND TRADER ID = 1 | ETC.. | FOR: TraderObjects.txt config)
 // <Category> = CATEGORY NAME, UNDER TRADER NAME
 // ITEM ORDER: CLASSNAME, QTY, BUY-VALUE, SELL-VALUE ( EXAMPLE: M4A1, 	W, 	1500, 	750 )
