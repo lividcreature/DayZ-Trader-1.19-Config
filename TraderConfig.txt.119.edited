@@ -12,7 +12,7 @@
 
 
 <CurrencyName> #tm_ruble				// CURRENCY NAME
-	<Currency> MoneyRuble1, 1			// CURRENCY CLASSNAME, VALUE (CUSTOM CURRENCY CAN BE USED. USE PROPER CLASSNAMES)
+	<Currency> MoneyRuble1, 1			// CURRENCY CLASSNAME, VALUE
 	<Currency> MoneyRuble5, 5
 	<Currency> MoneyRuble10, 10
 	<Currency> MoneyRuble25, 25
